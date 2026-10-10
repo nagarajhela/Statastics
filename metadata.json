@@ -1,0 +1,6 @@
+{
+  "name": "StatsTutor - Statistics & Python Notes Notebook",
+  "description": "A comprehensive beginner-friendly statistics notes notebook covering descriptive and inferential statistics, CLT, hypothesis testing, Z-test, T-test, and Chi-square with real-world examples, step-by-step math, and Python charts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
